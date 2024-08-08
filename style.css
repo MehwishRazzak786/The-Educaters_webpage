@@ -1,0 +1,189 @@
+* {
+     margin: 0;
+     padding: 0;
+}
+nav {
+    padding: 30px;
+    text-align: left;
+    
+}
+nav a {
+    text-decoration: none;
+    margin-right: 50px;
+    color: black;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+nav div{
+    text-align: right;
+    padding: 5px;
+}
+span img{
+    padding: 6px;
+    margin-left: 30px;
+}
+.one{
+    background-color: #0066B3;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    padding: 12px;
+    
+}
+.one a{
+    color: white;
+    font-size: 14px;
+}
+.one #n{
+    text-align: left;
+    padding-left: 60px;
+
+    
+}
+.one #a{
+    text-align: right;
+    padding-left: 320px;
+}
+.para h2{
+    font-size: 36px;
+    font-family:  Ubuntu, Cantarell, 'Open Sans', sans-serif;
+    margin: 0px 0px 42px;
+    padding: 0px 0px 32px;
+    color: #333333;
+    padding-left: 80px;
+}
+.para p{
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0px 0px 25px;
+    padding-left: 80px;
+    color: #666666;
+    line-height:25px;
+    padding-right: 15px;
+    padding-bottom: 50px;
+    
+}
+.btn{
+    color: white;
+    font-size: 20px;
+    background-color: #1E90ff;
+    padding: 12px 30px;
+    padding-left: 80px;
+    text-decoration: none;
+    margin-left: 80px;
+    text-align:start;
+    border-radius: 10px;
+
+}
+.about{
+    display:inline-flex;
+}
+.vedio{
+    padding-top: 50px;
+}
+.head h2{
+    font-size: 36px;
+    font-family:  Ubuntu, Cantarell, 'Open Sans', sans-serif;
+    margin: 0px 0px 42px;
+    padding: 0px 0px 32px;
+    color: #333333;
+    padding-left: 80px;
+}
+.head p{
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0px 0px 25px;
+    padding-left: 80px;
+    color: #666666;
+    line-height:25px;
+    padding-right:20px ;
+} 
+.img{
+    display:flex;
+    align-items: center;
+    padding-left: 80px;
+}
+.container h2{
+    font-size: 36px;
+    font-family:  Ubuntu, Cantarell, 'Open Sans', sans-serif;
+    margin: 0px 0px 42px;
+    padding: 0px 0px 32px;
+    color: #333333;
+    text-align: center;
+}
+.ad-main{
+    display: flex;
+}
+.icon1{
+    background-color: #5954Ef;
+    color: white;
+    padding-top: 80px;
+    text-align: center;
+    
+    padding-bottom: 80px;
+    margin: 20px 10px 10px 20px;
+    font-family: Ubuntu, Cantarell, 'Open Sans', sans-serif;
+    border-radius: 10px 0px 10px 0px;
+    
+}
+.icon2{
+    background-color: #00A88E;
+    color: white;
+    padding-top: 80px;
+    text-align: center;
+    
+    padding-bottom: 80px;
+    margin: 20px;
+    font-family: Ubuntu, Cantarell, 'Open Sans', sans-serif;
+    border-radius: 10px 0px 10px 0px; 
+}
+.icon3{
+    background-color: rgb(209, 180, 21);
+    color: white;
+    padding-top: 80px;
+    text-align: center;
+    
+    padding-bottom: 80px;
+    margin: 20px;
+    font-family: Ubuntu, Cantarell, 'Open Sans', sans-serif;
+    border-radius: 10px 0px 10px 0px;
+}
+.icon4{
+    background-color: darkblue;
+    color: white;
+    padding-top: 80px;
+    text-align: center;
+    
+    padding-bottom: 80px;
+    margin: 20px;
+    font-family: Ubuntu, Cantarell, 'Open Sans', sans-serif;
+    border-radius: 10px 0px 10px 0px;
+} 
+.footer h2{
+    font-size: 36px;
+    font-family:  Ubuntu, Cantarell, 'Open Sans', sans-serif;
+    margin: 0px 0px 42px;
+    padding: 0px 0px 32px;
+    color: #5954Ef;
+    padding-top: 20px;
+    
+    text-align: center;
+}
+#foot {
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0px 0px 25px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    line-height:25px;
+     
+}
+#foot a{
+    text-decoration: none;
+    color: #5954Ef;
+}
+#foot img{
+    background-color: white;
+    color: #0066B3;
+}  
